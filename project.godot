@@ -11,7 +11,7 @@ config_version=5
 [application]
 
 config/name="Ember of life"
-run/main_scene="uid://cypmxrqcgkw6v"
+run/main_scene="uid://ckg34fwgw4v8x"
 config/features=PackedStringArray("4.7", "Mobile")
 
 [display]
